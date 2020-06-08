@@ -1,0 +1,1 @@
+export const databaseConnectionToken = Symbol('databaseConnectionToken');

@@ -1,0 +1,1 @@
+export const phoneProviderToken = Symbol('phoneProviderToken');
